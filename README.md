@@ -39,9 +39,6 @@ The device ports include:
 
 The Pixel contains an ESP32-S3 which can be programmed using [PlatformIO](https://platformio.org/).
 
-> [!NOTE]
-> Code for the Pixel will be added to this repository in the future.
-
 You can modify the [neon-timing-serial-example](https://github.com/NextLevelTiming/neon-timing-serial-example) project
 to work for Pixel.
 
